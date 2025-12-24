@@ -1,0 +1,83 @@
+{
+  "app": {
+    "title": "Sisitemu yo Gucunga Inyamaswa"
+  },
+  "auth": {
+    "login": "Injira",
+    "register": "Kwiyandikisha",
+    "logout": "Sohoka",
+    "email": "Imeyili",
+    "password": "Ijambo ry'ibanga",
+    "name": "Amazina",
+    "confirmPassword": "Emeza Ijambo ry'ibanga",
+    "forgotPassword": "Wibagiwe ijambo ry'ibanga?",
+    "noAccount": "Ntugira konti?",
+    "hasAccount": "Ufite konti?",
+    "verifyEmail": "Emeza Imeyili yawe",
+    "emailSent": "Imeri yo kwemeza yoherejwe. Nyamuneka reba inbox yawe.",
+    "emailVerified": "Imeri yemejwe neza!",
+    "invalidCredentials": "Imeri cyangwa ijambo ry'ibanga sibyo",
+    "emailNotVerified": "Nyamuneka emeza imeyili yawe mbere yo kwinjira",
+    "registerSuccess": "Kwiyandikisha byagenze neza. Ushobora kwinjira ubu."
+  },
+  "animals": {
+    "title": "Inyamaswa",
+    "addAnimal": "Ongeraho Inyamaswa",
+    "editAnimal": "Hindura Inyamaswa",
+    "deleteAnimal": "Siba Inyamaswa",
+    "number": "Numero",
+    "code": "Code",
+    "type": "Ubwoko",
+    "age": "Imyaka",
+    "status": "Imiterere",
+    "image": "Ifoto",
+    "cow": "Inka",
+    "goat": "Ihene",
+    "active": "Ihari",
+    "sold": "Izagurishijwe",
+    "dead": "Izapfuye",
+    "other": "Ibindi",
+    "noAnimals": "Nta nyamaswa zibonewe",
+    "search": "Shakisha ku numero...",
+    "filter": "Tandukanya",
+    "allTypes": "Ubwoko Bwose",
+    "allStatuses": "Imiterere Yose",
+    "selectImage": "Hitamo Ifoto",
+    "changeImage": "Hindura Ifoto",
+    "deleteConfirm": "Wizeye neza ko ushaka gusiba iyi nyamaswa?",
+    "required": "Iki cyiciro cya ngombwa",
+    "gender": "Igitsina",
+    "male": "Gabo",
+    "female": "Gore",
+    "allGenders": "Amatsinda Yose"
+  },
+  "dashboard": {
+    "title": "Ikibaho",
+    "totalAnimals": "Inyamaswa Zose",
+    "cows": "Inka",
+    "goats": "Ihene",
+    "active": "Izihari",
+    "sold": "Izagurishijwe",
+    "dead": "Izapfuye"
+  },
+  "language": {
+    "select": "Hitamo Ururimi",
+    "english": "Icyongereza",
+    "french": "Igifaransa",
+    "kinyarwanda": "Ikinyarwanda",
+    "kiswahili": "Igiswahili"
+  },
+  "common": {
+    "save": "Bika",
+    "cancel": "Kureka",
+    "delete": "Siba",
+    "edit": "Hindura",
+    "close": "Funga",
+    "submit": "Ohereza",
+    "loading": "Birakura...",
+    "error": "Ikosa",
+    "success": "Intsinzi",
+    "welcome": "Murakaza neza"
+  }
+}
+

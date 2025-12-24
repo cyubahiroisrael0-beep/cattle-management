@@ -1,0 +1,83 @@
+{
+  "app": {
+    "title": "Mfumo wa Usimamizi wa Wanyama"
+  },
+  "auth": {
+    "login": "Ingia",
+    "register": "Jisajili",
+    "logout": "Toka",
+    "email": "Barua pepe",
+    "password": "Nenosiri",
+    "name": "Jina",
+    "confirmPassword": "Thibitisha Nenosiri",
+    "forgotPassword": "Umesahau nenosiri?",
+    "noAccount": "Huna akaunti?",
+    "hasAccount": "Tayari una akaunti?",
+    "verifyEmail": "Thibitisha Barua pepe yako",
+    "emailSent": "Barua pepe ya uthibitishaji imetumwa. Tafadhali angalia inbox yako.",
+    "emailVerified": "Barua pepe imethibitishwa kwa mafanikio!",
+    "invalidCredentials": "Barua pepe au nenosiri si sahihi",
+    "emailNotVerified": "Tafadhali thibitisha barua pepe yako kabla ya kuingia",
+    "registerSuccess": "Usajili umefanikiwa. Unaweza kuingia sasa."
+  },
+  "animals": {
+    "title": "Wanyama",
+    "addAnimal": "Ongeza Wanyama",
+    "editAnimal": "Hariri Wanyama",
+    "deleteAnimal": "Futa Wanyama",
+    "number": "Nambari",
+    "code": "Code",
+    "type": "Aina",
+    "age": "Umri",
+    "status": "Hali",
+    "image": "Picha",
+    "cow": "Ng'ombe",
+    "goat": "Mbuzi",
+    "active": "Hai",
+    "sold": "Imeuzwa",
+    "dead": "Imeufa",
+    "other": "Nyingine",
+    "noAnimals": "Hakuna wanyama waliopatikana",
+    "search": "Tafuta kwa nambari...",
+    "filter": "Chuja",
+    "allTypes": "Aina Zote",
+    "allStatuses": "Hali Zote",
+    "selectImage": "Chagua Picha",
+    "changeImage": "Badilisha Picha",
+    "deleteConfirm": "Una uhakika unataka kufuta mnyama huyu?",
+    "required": "Sehemu hii inahitajika",
+    "gender": "Jinsia",
+    "male": "Dume",
+    "female": "Jike",
+    "allGenders": "Jinsia Zote"
+  },
+  "dashboard": {
+    "title": "Dashibodi",
+    "totalAnimals": "Jumla ya Wanyama",
+    "cows": "Ng'ombe",
+    "goats": "Mbuzi",
+    "active": "Hai",
+    "sold": "Imeuzwa",
+    "dead": "Imeufa"
+  },
+  "language": {
+    "select": "Chagua Lugha",
+    "english": "Kiingereza",
+    "french": "Kifaransa",
+    "kinyarwanda": "Kinyarwanda",
+    "kiswahili": "Kiswahili"
+  },
+  "common": {
+    "save": "Hifadhi",
+    "cancel": "Ghairi",
+    "delete": "Futa",
+    "edit": "Hariri",
+    "close": "Funga",
+    "submit": "Wasilisha",
+    "loading": "Inapakia...",
+    "error": "Kosa",
+    "success": "Mafanikio",
+    "welcome": "Karibu"
+  }
+}
+

@@ -1,0 +1,83 @@
+{
+  "app": {
+    "title": "Système de Gestion des Animaux"
+  },
+  "auth": {
+    "login": "Connexion",
+    "register": "S'inscrire",
+    "logout": "Déconnexion",
+    "email": "Email",
+    "password": "Mot de passe",
+    "name": "Nom",
+    "confirmPassword": "Confirmer le mot de passe",
+    "forgotPassword": "Mot de passe oublié?",
+    "noAccount": "Vous n'avez pas de compte?",
+    "hasAccount": "Vous avez déjà un compte?",
+    "verifyEmail": "Vérifiez votre email",
+    "emailSent": "Email de vérification envoyé. Veuillez vérifier votre boîte de réception.",
+    "emailVerified": "Email vérifié avec succès!",
+    "invalidCredentials": "Email ou mot de passe invalide",
+    "emailNotVerified": "Veuillez vérifier votre email avant de vous connecter",
+    "registerSuccess": "Inscription réussie. Vous pouvez vous connecter maintenant."
+  },
+  "animals": {
+    "title": "Animaux",
+    "addAnimal": "Ajouter un Animal",
+    "editAnimal": "Modifier l'Animal",
+    "deleteAnimal": "Supprimer l'Animal",
+    "number": "Numéro",
+    "code": "Code",
+    "type": "Type",
+    "age": "Âge",
+    "status": "Statut",
+    "image": "Image",
+    "cow": "Vache",
+    "goat": "Chèvre",
+    "active": "Actif",
+    "sold": "Vendu",
+    "dead": "Mort",
+    "other": "Autre",
+    "noAnimals": "Aucun animal trouvé",
+    "search": "Rechercher par numéro...",
+    "filter": "Filtrer",
+    "allTypes": "Tous les Types",
+    "allStatuses": "Tous les Statuts",
+    "selectImage": "Sélectionner une Image",
+    "changeImage": "Changer l'Image",
+    "deleteConfirm": "Êtes-vous sûr de vouloir supprimer cet animal?",
+    "required": "Ce champ est requis",
+    "gender": "Genre",
+    "male": "Mâle",
+    "female": "Femelle",
+    "allGenders": "Tous les Genres"
+  },
+  "dashboard": {
+    "title": "Tableau de Bord",
+    "totalAnimals": "Total des Animaux",
+    "cows": "Vaches",
+    "goats": "Chèvres",
+    "active": "Actif",
+    "sold": "Vendu",
+    "dead": "Mort"
+  },
+  "language": {
+    "select": "Sélectionner la Langue",
+    "english": "Anglais",
+    "french": "Français",
+    "kinyarwanda": "Kinyarwanda",
+    "kiswahili": "Kiswahili"
+  },
+  "common": {
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "close": "Fermer",
+    "submit": "Soumettre",
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "success": "Succès",
+    "welcome": "Bienvenue"
+  }
+}
+
